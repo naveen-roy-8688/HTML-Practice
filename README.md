@@ -1,4 +1,5 @@
 # Table of contents
-```html
-  <div> Bumchick Naveen </div>
-```
+
+| Name   | Role     | Salary |
+|--------|----------|--------|
+| Naveen | Bumchick | 5000   |
